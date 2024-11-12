@@ -10,6 +10,6 @@ I apologize for my tardiness. I use Windows less and less every year, and I must
 
 Filename              | Download Count
 --------------------- | --------------
-SuperF4-1.4-32bit.zip |          3,853
-SuperF4-1.4-64bit.zip |         18,349
-SuperF4-1.4.exe       |        126,425
+SuperF4-1.4-32bit.zip |          8,645
+SuperF4-1.4-64bit.zip |         53,749
+SuperF4-1.4.exe       |        443,250

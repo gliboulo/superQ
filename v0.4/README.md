@@ -8,4 +8,4 @@
 
 Filename       | Download Count
 -------------- | --------------
-SuperF4-0.4.7z |             19
+SuperF4-0.4.7z |             30

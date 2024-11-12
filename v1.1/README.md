@@ -10,5 +10,5 @@
 
 Filename        | Download Count
 --------------- | --------------
-SuperF4-1.1.7z  |             31
-SuperF4-1.1.exe |             50
+SuperF4-1.1.7z  |             47
+SuperF4-1.1.exe |             68
